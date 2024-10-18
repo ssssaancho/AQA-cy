@@ -1,0 +1,40 @@
+Логи
+logs
+.log
+npm-debug.log
+
+Рантайм-данные
+pids
+*.pid
+*.seed
+.pid.lock
+
+Каталоги для модулей
+node_modules
+jspm_packages
+
+Типичные файлы времени компиляции
+/public/build
+/dist
+
+Результирующие файлы зависимостей
+package-lock.json
+yarn.lock
+
+Различные файлы IDE и редакторов
+/.idea
+/.vscode
+**/.sublime-project
+*/.sublime-workspace
+
+Операционно-специфические файлы
+.DS_Store
+Thumbs.db
+
+Архивы, созданные в процессе работы
+*.tgz
+*.zip
+
+Файлы конфигурации dotenv
+.env
+.env.test
